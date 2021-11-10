@@ -1,4 +1,9 @@
-### Hi there 👋
+### Skinzin user profile!
+
+**Introdução**
+
+- Olá 👋! Seja bem-vindo/a ao meu repositorio!!
+
 
 <!--
 **Skinzin/Skinzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

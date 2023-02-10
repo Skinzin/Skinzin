@@ -3,7 +3,7 @@
 - Olá! Me chamo Vinicius, muito prazer em conhece-lo/a =)! 
 
 ![Dashboard](https://github-readme-stats.vercel.app/api?username=Skinzin&show_icons=true&count_private=true&hide=contribs&bg_color=0,161b24,9F75FF&icon_color=b7f2a7&title_color=b7f2a7&text_color=FFF&border_color=04D361&hide_border=false&border_radius=35&locale=pt-BR)
-![Dashboard](https://github-readme-stats.vercel.app/api/top-langs/?username=Skinzin&layout=compact&bg_color=0,161b24,9F75FF&text_color=FFF&border_color=04D361&hide_border=false&border_radius=35&title_color=b7f2a7&locale=pt-BR)
+![Dashboard](https://github-readme-stats.vercel.app/api/top-langs/?username=Skinzin&layout=compact&bg_color=0,9F75FF,161b24&text_color=FFF&border_color=04D361&hide_border=false&border_radius=35&title_color=b7f2a7&locale=pt-BR)
 
 <!--
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=0,161b24,9F75FF&icon_color=b7f2a7&title_color=b7f2a7&text_color=FFF&border_color=04D361&hide_border=false&border_radius=35)

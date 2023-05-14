@@ -4,6 +4,7 @@
 
 ![Dashboard](https://github-readme-stats.vercel.app/api?username=Skinzin&show_icons=true&count_private=true&hide=contribs&bg_color=0,161b24,9F75FF&icon_color=b7f2a7&title_color=b7f2a7&text_color=FFF&border_color=04D361&hide_border=false&border_radius=8&locale=pt-BR)
 ![Dashboard](https://github-readme-stats.vercel.app/api/top-langs/?username=Skinzin&layout=compact&bg_color=0,9F75FF,161b24&text_color=FFF&border_color=04D361&hide_border=false&border_radius=8&title_color=b7f2a7&locale=pt-BR)
+<br>
 
 ## Tecnologias
 <div>
@@ -20,10 +21,19 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
-## Contato
 
+## Contato
 <div>
   <a href="https://discord.com/channels/@me/528016148093075458">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
+
+<br><br><br><br>
+## Snake Animation alimentando-se de minhas contribuições =)
+![Snake Game](https://github.com/Skinzin/Skinzin/blob/output/github-contribution-grid-snake.svg)
+
+<br><br>
+<h4 align="center">
+  <a href="https://github.com/Skinzin?tab=repositories">📚 Ver todos os repositorios 📚</a>
+</h4>

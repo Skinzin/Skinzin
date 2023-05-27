@@ -22,12 +22,6 @@
 </div>
 
 
-## Contato
-<div>
-  <a href="https://discord.com/channels/@me/528016148093075458">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</div>
 
 <br><br><br><br>
 ## Snake Animation alimentando-se de minhas contribuições =)

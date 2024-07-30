@@ -35,8 +35,8 @@
 
 
 
-<br><br><br><br>
-## Snake Animation alimentando-se de minhas contribuições =)
+<br><br><!--<br><br>-->
+<!-- ## Snake Animation alimentando-se de minhas contribuições =) -->
 ![Snake Game](https://github.com/Skinzin/Skinzin/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br><br>

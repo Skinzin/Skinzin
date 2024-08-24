@@ -1,7 +1,7 @@
 # 👋 | Hiii! Seja bem-vindo/a ao meu repositorio!!
 
 <div display="flex">
-  <p align="left">Olá! Me chamos Vinicius, muito prazer em conhece-lo(a) =)!</p>
+  <p align="center">Hi! I'm Vinicius</p>
 <!--   <img align="right" src="https://github.com/Skinzin/Skinzin/assets/71513905/39cad8f2-6be4-4559-a53a-e33108b0095d" alt="Server, notbook, search etc in illustration." width="45%" /> -->
 </div> 
 

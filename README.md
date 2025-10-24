@@ -5,7 +5,7 @@
   <br>
   
 ![Dashboard](https://github-readme-stats.vercel.app/api?username=Skinzin&show_icons=true&count_private=true&hide=contribs&icon_color=b7f2a7&title_color=b7f2a7&text_color=FFF&hide_border=true&border_radius=8&locale=pt-BR&theme=react)
-![Dashboard](https://github-readme-stats.vercel.app/api/top-langs/?username=Skinzin&layout=compact&text_color=FFF&border_color=04D361&hide_border=true&border_radius=8&title_color=b7f2a7&locale=pt-BR&langs_count=8&hide=hack&theme=react)
+![Dashboard](https://github-readme-stats.vercel.app/api/top-langs/?username=Skinzin&layout=compact&text_color=FFF&border_color=04D361&hide_border=true&border_radius=8&title_color=b7f2a7&locale=pt-BR&langs_count=8&hide=Hack&theme=react)
 
 
 <br>
